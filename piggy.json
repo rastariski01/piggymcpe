@@ -9,10 +9,10 @@
       "admob_banner":"",
       "admob_inter":"",
       "admob_native":"",
-      "interval":1,
+      "interval":3,
       "fan_inter":"640726526572165_640726803238804",
       "fan_banner":"640726526572165_640726999905451",
-      "fan_native":"",
+      "fan_native":"640726526572165_641760763135408",
       "startappid":"12345678"
     }
   ],
